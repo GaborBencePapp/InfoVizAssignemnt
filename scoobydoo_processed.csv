@@ -1,0 +1,604 @@
+series_name,format,monster_name,monster_type,monster_subtype,monster_species,monster_real,monster_amount,suspects_amount,motive,monster_gender_group
+"Scooby Doo, Where Are You!",TV Series,Black Knight,Possessed Object,Suit,Object,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Ghost of Cptn. Cuttler,Ghost,Suit,Human,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Phantom,Ghost,Phantom,Human,False,1,0,Treasure,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Miner 49'er,Ancient,Miner,Human,False,1,2,Natural Resource,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Indian Witch Doctor,Ancient,Witch Doctor,Human,False,1,1,Competition,Woman/Women
+"Scooby Doo, Where Are You!",TV Series,Ghost of Elias Kingston,Ghost,Phantom,Human,False,1,2,Extortion,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Ape Man,Animal,Half-Human,Ape,False,1,1,Competition,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Charlie the Robot,Mechanical,Humanoid,Robot,False,1,2,Safety,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Puppet Master,Ghost,Pupeteer,Human,False,1,1,Counterfeit,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Ghost Clown,Ghost,Clown,Human,False,1,1,Competition,Man/Men
+"Scooby Doo, Where Are You!",TV Series,"Werewolf,Dracula,Frankenstein's Monster","Animal,Undead,Undead","Werewolf,Vampire,Frankenstein's Monster","Human,Human,Human",False,3,1,Treasure,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Mummy of Ankha,Undead,Mummy,Human,False,1,1,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,"Zombie,Witch","Undead,Magician","Zombie,Witch","Human,Human",False,2,2,Theft,Both
+"Scooby Doo, Where Are You!",TV Series,Ghost of Redbeard,Ghost,Pirate,Human,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Spooky Space Kook,Extraterrestrial,Phantom,Alien,False,1,1,Competition,Man/Men
+"Scooby Doo, Where Are You!",TV Series,"Green Ghost,Green Ghost","Ghost,Ghost","Phantom,Phantom","Human,Human",False,2,3,Inheritance,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Snow Ghost,Ghost,Snow,Yeti,False,1,3,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Ghost of Mr. Hyde,Ghost,Split-Personality,Human,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,"Ghost of Zen Tuo,Scare Pair,Scare Pair","Ghost,Ghost,Ghost","Zombie,Zombie,Zombie","Human,Human,Human",False,3,1,Smuggling,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Caveman,Ancient,Caveman,Human,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Creeper,Ghost,Phantom,Human,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Headless Specter,Ghost,Headless,Human,False,1,1,Treasure,Man/Men
+"Scooby Doo, Where Are You!",TV Series,"Witch Doctor,Mano Tiki Tia","Ancient,Possessed Object","Witch Doctor,Statue","Human,Object",False,2,1,Theft,Both
+"Scooby Doo, Where Are You!",TV Series,Werewolf,Animal,Werewolf,Human,False,1,0,Smuggling,Man/Men
+"Scooby Doo, Where Are You!",TV Series,Wax Phantom,Ghost,Statue,Human,False,1,3,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,"Giant Bat,Geronimo,Gunslinger,Robot Gunslinger,Cactus","Animal,Ancient,Ancient,Mechanical,Plant","Bat,Indian,Cowboy,Humanoid,Cactus","Bat,Human,Human,Robot,Cactus",False,2,2,Natural Resource,Ambiguous
+The New Scooby-Doo Movies,TV Series,"Hooded Man,Skeletons","Disguised,Skeleton","Hooded,Humaniod","Human,Human",False,2,1,Counterfeit,Man/Men
+The New Scooby-Doo Movies,TV Series,The Vulture,Animal,Bird,Vulture,False,1,2,Safety,Woman/Women
+The New Scooby-Doo Movies,TV Series,Scarecrow,Possessed Object,Scarecrow,Human,False,1,4,Treasure,Man/Men
+The New Scooby-Doo Movies,TV Series,"Ghost of Captain Moody,Ghost of Captain Moody","Ghost,Ghost","Phantom,Phantom","Human,Human",False,2,1,Inheritance,Man/Men
+The New Scooby-Doo Movies,TV Series,"The Gargoyle,Phantoms,Phantoms","Possessed Object,Ghost,Ghost","Statue,Phantom,Phantom","Gargoyle,Human,Human",False,3,4,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,"Ghost,Sheik,Mummy,Pirate,Dragon,Wolfman,Grizzly Bear,Indian,Mr. Hyde","Ghost,Disguised,Undead,Disguised,Animal,Animal,Animal,Ancient,Disguised","Phantom,Sheik,Mummy,Pirate,Dragon,Humanoid,Bear,Indian,Split-Personality","Human,Human,Human,Human,Dragon,Human,Bear,Human,Human",False,9,4,Preservation,Man/Men
+The New Scooby-Doo Movies,TV Series,"Shark Men,Shark Men","Animal,Animal","Sea-Monster,Sea-Monster","Shark,Shark",False,2,2,Treasure,Man/Men
+The New Scooby-Doo Movies,TV Series,"Skeleton Man,Lady Ghost,3-Eyed Spook,Giant,Brontosaurus,Headless Horsemen of Sleepy Hollow,Skeleton Stage Driver","Undead,Ghost,Ghost,Ghost,Ancient,Ghost,Ghost","Skeleton,Phantom,Phantom,Phantom,Brontosaurus,Headless,Phantom","Human,Human,Human,Human,Dinosaur,Human,Human",False,7,2,Theft,Both
+The New Scooby-Doo Movies,TV Series,The Ghost of Bigfoot,Ghost,Half-Human,Big Foot,False,1,4,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,Ghost of the Red Baron,Ghost,Pilot,Human,False,1,3,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,"Ghost of Redbeard,Ghost of Redbeard's crew,Ghost of Redbeard's crew,Ghost of Redbeard's crew","Ghost,Ghost,Ghost,Ghost","Pirate,Pirate,Pirate,Pirate","Human,Human,Human,Human",False,4,1,Natural Resource,Man/Men
+The New Scooby-Doo Movies,TV Series,"Haunted Horseman,Moat Monster","Ghost,Animal","Horseman,Amphibian","Human,Frog",False,2,4,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,"Possessed Viking Mannequin,Possessed Davy Crockett Mannequin","Possessed Object,Possessed Object","Viking,Soldier","Human,Human",False,2,2,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,"Dryad,Troll","Mythical,Mythical","Tree,Humanoid","Dryad,Troll",False,2,2,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,"Sea Serpent,Ghost of Paul Revere,Minuteman Ghost,Redcoat Ghost","Mythical,Ghost,Ghost,Ghost","Sea-Monster,Phantom,Phantom,Phantom","Serpent,Human,Human,Human",False,4,4,Treasure,Man/Men
+The New Scooby-Doo Movies,TV Series,"Hooded Ghosts,Hooded Ghosts,Hooded Ghosts","Ghost,Ghost,Ghost","Phantom,Phantom,Phantom","Human,Human,Human",False,3,2,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,"Ghost of Injun Joe,Ghost of Captain Scavenger","Ghost,Ghost","Phantom,Phantom","Human,Human",False,2,3,Counterfeit,Man/Men
+The New Scooby-Doo Movies,TV Series,Jadal,Mythical,Phantom,Genie,True,1,3,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,Spirit of Fireball McPhan,Ghost,Phantom,Human,False,1,3,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,"Cat Creature,Frankenstein,Creepy Man,Ghost Bird,Unknown Exterminator,Ghostly Man,Invisible Couple,Sea Monster","Animal,Undead,Disguised,Animal,Disguise,Ghost,Ghost,Animal","Humanoid,Frankenstein's Monster,Creepy,Headless,Exterminator,Phantom,Phantom,Sea-Monster","Human,Human,Human,Bird,Human,Human,Human,Fish",False,8,1,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,"Windmakers,Windmakers,Windmakers,Windmakers","Disguised,Disguised,Disguised,Disguised","Hooded,Hooded,Hooded,Hooded","Human,Human,Human,Human",False,4,2,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,"Green Globs,Green Globs","Possessed Object,Possessed Object","Humanoid,Humanoid","Human,Human",False,2,2,Smuggling,Man/Men
+The New Scooby-Doo Movies,TV Series,Ghostly Strongman,Ghost,Phantom,Human,False,1,0,Competition,Man/Men
+The Scooby-Doo Show,TV Series,"Specter of Ebenezer Crabbe,Ghost of Netty Crabbe","Ghost,Ghost","Phantom,Phantom","Human,Human",False,2,4,Theft,Both
+"Dynomutt, Dogwonder",Crossover,"Mr. Hyde,Snitch","Disguised,Animal","Split-Personality,Split-Personality","Human,Hound",True,1,2,Theft,Man/Men
+The Scooby-Doo Show,TV Series,"Ghost of King Katazuma,Aztec Statue Monster","Ghost,Possessed Object","Phantom,Statue","Human,Human",False,2,4,Treasure,Man/Men
+"Dynomutt, Dogwonder",Crossover,"Lowbrow,Lowbrow's Henchmen,Lowbrow's Henchmen","Super-Villain,Super-Villain,Super-Villain","Idiot,Henchman,Henchman","Human,Human,Human",True,3,1,Theft,Man/Men
+The Scooby-Doo Show,TV Series,Ghost of Gator Ghoul,Ghost,Amphibian,Alligator,False,1,4,Competition,Man/Men
+The Scooby-Doo Show,TV Series,10000 Volt Ghost,Ghost,Electric,Human,False,1,3,Competition,Man/Men
+The Scooby-Doo Show,TV Series,Headless Horseman,Ghost,Headless,Human,False,1,4,Theft,Man/Men
+The Scooby-Doo Show,TV Series,"Ghost of Merlin,Black Knight","Ghost,Possessed Object",Witch,"Human,Human",False,2,3,Theft,Man/Men
+The Scooby-Doo Show,TV Series,Ghost of Dr. Coffin,Ghost,Phantom,Human,False,1,2,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,"No-Face Zombie,Gorilla","Undead,Animal","Zombie,Beast","Human,Gorilla",False,2,5,Theft,Man/Men
+The Scooby-Doo Show,TV Series,"Mamba Wamba,Zombie Lila,Mamba Zombie,","Ghost,Undead,Undead","Witch Doctor,Zombie,Zombie","Human,Human,Human",False,3,5,Extortion,Both
+The Scooby-Doo Show,TV Series,Demon,Mythical,Demon,Demon,False,3,4,Theft,Man/Men
+"Dynomutt, Dogwonder",Crossover,Swamp Rat,Animal,Humanoid,Rat,False,1,0,Theft,Man/Men
+The Scooby-Doo Show,TV Series,"Tamuka the Ghost Bull,Medicine Man Ghost,Talking Bull","Ghost,Ghost,Animal","Beast,Witch Doctor,Beast","Bull,Human,Bull",False,3,5,Theft,Man/Men
+The Scooby-Doo Show,TV Series,Demon Shark,Mythical,Demon,Shark,False,1,4,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,"Ghost of Captain Pescado,Kelp Monster,Octopus Monster","Ghost,Plant,Animal","Pirate,Humanoid,Octopus","Human,Kelp,Octopus",False,3,2,Treasure,Man/Men
+The Scooby-Doo Show,TV Series,Rambling Ghost,Ghost,Athlete,Human,False,1,6,Competition,Man/Men
+The Scooby-Doo Show,TV Series,"Strawberry Technicolor Phantom,Chocolate Technicolor Phantom,Vanilla Technicolor Phantom","Ghost,Ghost,Ghost","Phantom,Phantom,Phantom","Human,Human,Human",False,3,2,Theft,Man/Men
+The Scooby-Doo Show,TV Series,"Ghost of Benedict Arnold,Ghost of William Demont,Ghost of Major Andre","Ghost,Ghost,Ghost","Statue,Statue,Statue","Human,Human,Human",False,3,3,Counterfeit,Man/Men
+The Scooby-Doo Show,TV Series,"Viking Ghost,Viking Ghost,Viking Ghost","Ghost,Ghost,Ghost","Viking,Viking,Viking","Human,Human,Human",False,3,3,Natural Resource,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Gramps the Vamp,Undead,Vampire,Human,False,1,5,Competition,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Pterodactyl Ghost,Ghost,Pterodactyl,Dinosaur,False,1,2,Theft,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Phantom of Milo Booth,Ghost,Phantom,Human,False,1,6,Competition,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),Lochness Monster,Animal,Lochness Monster,Lochness Monster,True,1,0,,Woman/Women
+The Scooby-Doo Show,TV Series,Phantom Racer,Ghost,Phantom,Human,False,1,4,Theft,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,"Ghost of Witch McCoy,Zombie","Ghost,Undead","Witch,Zombie","Human,Human",False,2,3,Smuggling,Both
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Futuristic Monster,Animal,Humanoid,Insect,False,1,2,Theft,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,"Creepy Heap from the Deep,Soulless Captain Clements","Animal,Undead","Sea-Monster,Possessed","Sea-Monster,Human",False,2,2,Smuggling,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),"Abominable Snowman,Abominable Snowwoman","Animal,Animal","Yeti,Yeti","Snow-Monster,Snow-Monster",True,2,0,,Both
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),Leprechaun,Mythical,Magician,Leprechaun,True,1,0,,Man/Men
+Laff-a-Lympics,TV Series (segmented),Prehistoric Dinosaur,Animal,Dinosaur,Dinosaur,True,1,0,,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,"Willawa,Owl Men,Owl Men","Animal,Animal,Animal","Owl,Humanoid,Humanoid","Owl,Owl,Owl",False,3,1,Smuggling,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),Ghost of Blue Beard,Ghost,Pirate,Human,True,1,0,,Man/Men
+The Scooby-Doo Show,TV Series,"Skeleton Men,Skeleton Men,Skeleton Men","Undead,Undead,Undead","Skeleton,Skeleton,Skeleton","Human,Human,Human",False,3,2,Theft,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Snow Beast,Animal,Beast,Snow-Monster,False,1,3,Natural Resource,Man/Men
+Laff-a-Lympics,TV Series (segmented),Annabelle,Mythical,Amazonian,Amazonian,True,1,0,,Woman/Women
+Laff-a-Lympics,TV Series (segmented),"Frankenstein's Monster,Vampires,Living Trees,Monster of the Black Lagoon","Undead,Undead,Plant,Animal","Frankenstein's Monster,Vampire,Tree,Serpent","Human,Human,Tree,Swamp Monster",True,4,0,,Man/Men
+The Scooby-Doo Show,TV Series,Ghost Witch of Old Salem,Ghost,Witch,Human,False,1,3,Inheritance,Woman/Women
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Tar Monster,Possessed Object,Tar,Creature,False,1,3,Treasure,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),Giant Squid,Animal,GIant,Squid,True,1,0,,Man/Men
+The Scooby-Doo Show,TV Series,"Ghost of Finnyan McDuff,Loch Ness Monster","Ghost,Mythical","Phantom,Loch Ness Monster","Human,Dinosaur",False,2,3,Smuggling,Both
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Old Iron Face,Disguised,Pirate,Human,False,1,3,Smuggling,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Jaguaro,Animal,Beast,Jungle-Monster,False,1,4,Natural Resource,Man/Men
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+Laff-a-Lympics,TV Series (segmented),,,,,,0,0,,
+The Scooby-Doo Show,TV Series,Cat Creature,Animal,Humanoid,Cat,False,1,3,Theft,Man/Men
+The Scooby-Doo Show,TV Series,Mantis,Animal,Humanoid,Mantis,False,1,4,Natural Resource,Man/Men
+The Scooby-Doo Show,TV Series,Phantom,Ghost,Musician,Human,False,1,6,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,Moon Monster,Ghost,Demon,Beast,False,1,3,Theft,Man/Men
+The Scooby-Doo Show,TV Series,Ghostly Gondolier,Ghost,Phantom,Human,False,1,4,Treasure,Man/Men
+The Scooby-Doo Show,TV Series,Ghost of Juan Carlos,Ghost,Phantom,Human,False,1,5,Treasure,Man/Men
+The Scooby-Doo Show,TV Series,"Anthos,Devil Hound","Ancient,Animal","Warlock,Demon","Human,Hound",False,2,4,Competition,Man/Men
+The Scooby-Doo Show,TV Series,Beast of Bottomless Lake,Animal,Humanoid,Sea-Monster,False,1,4,Smuggling,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Blue Scarab,Disguised,Super-Villain,Human,False,1,4,Competition,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Night Ghoul,Undead,Ghoul,Human,False,1,4,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Alien,Extraterrestrial,Alien,Alien,False,1,3,Smuggling,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Neon Phantom,Ghost,Phantom,Human,False,1,3,Competition,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,"Snake Demon,Clown","Animal,Disguised","Demon,Clown","Snake,Human",False,2,4,Smuggling,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Sky Skeleton,Undead,Skeleton,Human,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Dragon Beast,Mythical,Humanoid,Dragon,False,1,3,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Devil Bear,Animal,Demon,Bear,False,1,4,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Sea Beast of the Aztecs,Animal,Humanoid,Sea-Monster,False,1,2,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Lady Vampire of the Bat,Undead,Vampire,Human,False,1,3,Theft,Woman/Women
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Star Creature,Extraterrestrial,Humanoid,Star,False,1,4,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Shadow Creature,Animal,Humanoid,Creature,False,1,4,Theft,Man/Men
+Scooby Goes Hollywood,Movie,,,,,,0,3,,
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Ghost of Jeremiah Pratt,Ghost,Phantom,Human,False,1,3,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Ghost of the Great Haldane,Ghost,Magician,Human,False,1,4,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,Minotaur,Mythical,Minotaur,Minotaur,False,1,3,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,,,,,,0,2,Extortion,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),"Aliens,Aliens","Extraterrestrial,Extraterrestrial","Alien,Alien","Alien,Alien",True,2,0,Experimentation,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Sylvester,Undead,Vampire,Human,True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Chinese Food Factory Burglar,Disguised,Masked,Human,False,1,0,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Arabian Magician,Magician,Magician,Human,True,1,0,Experimentation,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Cat Man,Animal,Humanoid,Cat,True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Trespassing,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Mummy,Undead,Mummy,Human,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Competition,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Caveman,Ancient,Caveman,Human,True,1,0,Assistance,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Pirate,Ancient,Pirate,Human,True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Haunt,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Trespassing,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Anger,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Swamp Witch,Magician,Witch,Human,True,1,0,Food,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Knight,Ancient,Knight,Human,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Wax Master,Possessed Object,Statue,Human,True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),"Evil Trees,Caterpillar,Cheshire Cat,Queen of Hearts","Plant,Animal,Animal,Magician","Evil,Talking,Talking,Queen","Tree,Caterpillar,Cat,Human",False,4,0,Imagination,Both
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Anger,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Lava Monster,Possessed Object,Statue,Lava,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Competition,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Alaskan Monster,Animal,Beast,Snow-Monster,True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Rocky Maximus,Ancient,Gladiator,Human,True,1,1,Competition,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Swamp Monster,Animal,Beast,Swamp-Monster,True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Trespassing,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Bully,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Shaggy,Animal,Werewolf,Human,True,1,1,Loneliness,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Training,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),"Rock Monsters,Rock Monsters","Possessed Object,Possessed Object","Rock,Rock","Cave-Monster,Cave-Monster",True,2,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Wicked Witch of the North by Southeast,Magician,Witch,Human,False,1,0,Imagination,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Phantom of the Sewers,Disguised,Phantom,Human,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Rawhide Red,Mechanical,Robot,Object,True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Enemy Spy,Disguised,Spy,Human,True,1,0,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Alien,Extraterrestrial,Alien,Alien,True,1,0,Conquer,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Trespassing,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,Anger,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Pleasure Island Man,Magician,Trickster,Human,False,1,0,Imagination,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Pirate,Ghost,Pirate,Human,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Sheet Ghost,Ghost,Phantom,Human,True,1,1,Mistake,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Centaur,Animal,Centaur,Centaur,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),"Merlin,Jasper","Magician,Animal","Wizard,Giant","Human,Frog",True,2,0,Assistance,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Alien,Extraterrestrial,Alien,Alien,True,1,0,Conquer,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Dragon,Mythical,Dragon,Dragon,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Pat O'Wiley,Mythical,Leprechaun,Leprechaun,True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Madame Olga,Magician,Witch,Human,True,1,0,Experimentation,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),"Red Baron,T-Rex","Ancient,Animal","Pilot,Dinosaur","Human,Dinosaur",False,2,0,Imagination,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Toy Gorilla,Mechanical,Toy,Gorilla,True,1,0,Automated,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Plutonian,Extraterrestrial,Alien,Hound,True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Dr. Wolf,Animal,Werewolf,Human,True,1,1,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Vampire Foreman,Undead,Vampire,Human,True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Carnivorous Plants,Plant,Giant,Venus Fly Trap,True,1,1,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Competition,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Bigfoot,Animal,Humanoid,Bigfoot,True,1,0,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Giant,Mythical,Giant,Human,True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,Theft,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,Theft,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Catfish Burglar,Disguised,Masked,Human,False,1,1,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),"Gargoyle,Medusa,Sea Creature,Octopus Monster,Bigfoot","Possessed Object,Mythical,Animal,Animal,Animal","Statue,Gorgon,Humanoid,Giant,Humanoid","Gargoyle,Human,Sea-Monster,Octopus,Bigfoot",True,5,2,Production,Both
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Competition,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,Competition,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,3,Smuggling,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,Theft,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,Theft,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Slime Boy,Disguised,Slime,Human,False,1,2,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Theft,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,2,Competition,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,1,Theft,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Jasmine,Mythical,Phantom,Genie,True,1,0,Abduction,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),"Alien Scavenger Hunter,Alien Scavenger Hunter,Alien Scavenger Hunter","Extraterrestrial,Extraterrestrial,Extraterrestrial","Teen,Teen,Teen","Alien,Alien,Alien",True,3,0,Abduction,Both
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Dognapper,Disguised,,Human,False,1,1,Extortion,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Cat Lady,Animal,Cat,Human,False,1,0,Theft,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Wonga,Ancient,Caveman,Human,True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Scooby-Doo,Animal,Werewolf,Hound,True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),,,,,,0,0,,
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),Abominable Snowman,Animal,Humanoid,Snow-Monster,False,1,1,Inheritance,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Olaf the Terrible,Ancient,Viking,Human,False,1,2,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),"Great White Shark,Seaweed Monster","Animal,Plant","Shark,Seaweed","Shark,Sea-Monster",False,2,2,Treasure,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),"Face in the Fireplace,Ghosts Under the Bed,Living Animal Heads,Skeleton,Living Statue,Organ Playing Ghost","Ghost,Ghost,Undead,Undead,Possessed Object,Ghost","Phantom,Phantom,Head,Skeleton,Statue,Phantom","Human,Human,Beast,Human,Human,Human",True,6,0,Trespassing,Both
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Mud Monster,Possessed Object,Humanoid,Mud,False,1,4,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Hound of the Barkervilles,Animal,Werewolf,Hound,False,1,2,Inheritance,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Dinosaur,Animal,Dinosaur,Dinosaur,False,1,1,Treasure,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Creature from Chem Lab,Possessed Object,Humanoid,Chem,False,1,3,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Masked Manx,Animal,Humanoid,Gorilla,False,1,3,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),"Randar the Ape Man,Mobotsu","Animal,Animal","Humanoid,Giant","Ape,Ape",False,2,2,Smuggling,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),"Maid Zombie,Barney Zombie,Tourist Zombie,Amy Zombie","Undead,Undead,Undead,Undead","Possessed,Possessed,Possessed,Possessed","Human,Human,Human,Human",False,4,3,Natural Resource,Both
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Neanderthal Monster of Devil's Rock,Animal,Humanoid,Beast,False,1,3,Natural Resource,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),,,,,,0,3,Theft,
+The New Scooby and Scrappy Doo Show,TV Series (segmented),"Tower Wizard,Yadzruck","Magician,Animal","Wizard,Humanoid","Human,Yadzruck",True,2,1,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Phantom of the Soaps,Ghost,Phantom,Human,False,1,3,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),,,,,,0,1,Imagination,
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Clown,Disguised,Clown,Human,False,1,3,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Minotaur,Mythical,Minotaur,Minotaur,False,1,2,Treasure,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Ghost of Casey O'Reilly,Ghost,Phantom,Human,False,1,4,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Gremlin,Mythical,Gremlin,Gremlin,False,1,5,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Specter of the Sports Cars,Ghost,Phantom,Human,False,1,3,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),"Frankenstein's Monster,Dracula,Dracula's Wife,Dracula Jr.","Undead,Undead,Undead,Animal","Frankenstein's Monster,Vampire,Vampire,Werewolf","Human,Human,Human,Human",True,4,1,Experimentation,Both
+The New Scooby and Scrappy Doo Show,TV Series (segmented),Ghost of Chef Maras,Ghost,Chef,Human,False,1,3,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series,Mummy,Undead,Mummy,Human,False,1,4,Smuggling,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series,Ghost of McBaggy Rodgers,Ghost,Phantom,Human,False,1,7,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series,Red Skull,Disguised,Skull,Human,False,1,4,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Maid Mummy,Undead,Mummy,Human,False,1,3,Theft,Woman/Women
+The New Scooby-Doo Mysteries,TV Series (segmented),Helping Hands,Possessed Object,Gloves,Object,False,1,5,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),"Sea Demon,Sea Demon","Animal,Animal","Humanoid,Humanoid","Sea-Monster,Sea-Monster",False,2,3,Natural Resource,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Cyclops,Mythical,Cyclops,Human,False,1,4,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Master Mind,Super-Villain,Genius,Human,False,1,3,Conquer,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Giant Bees,Animal,Giant,Bee,False,1,3,Competition,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Ghost of Ebenezer Overview,Ghost,Phantom,Human,False,1,3,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),,,,,,0,3,Theft,
+The New Scooby-Doo Mysteries,TV Series,"Zombies,Zombies,Zombies,Zombies","Undead,Undead,Undead,Undead","Zombie,Zombie,Zombie,Zombie","Human,Human,Human,Human",False,4,4,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Evil Elf,Mythical,Elf,Elf,False,1,3,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Mad Sea Lion,Animal,Sea Lion,Sea Lion,False,1,4,Competition,Man/Men
+The New Scooby-Doo Mysteries,TV Series,Ghost of Dr. Van Helsing,Ghost,Phantom,Human,False,1,4,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series,"Ghost of Abraham Lincoln,Ghost of George Washington,Ghost of Ulysses S. Grant,Ghost of Theodore Roosevelt","Ghost,Ghost,Ghost,Ghost","President,President,President,President","Human,Human,Human,Human",False,4,6,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Ghost of Colonel Beauregard,Ghost,Phantom,Human,False,1,3,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),,,,,,0,1,Smuggling,
+The New Scooby-Doo Mysteries,TV Series,Ghost of Sherlock Holmes,Ghost,Detective,Human,False,1,6,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Monster Mutt,Animal,Super-Villain,Hound,False,1,4,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),Monster Mouse,Animal,Giant,Mouse,False,1,4,Competition,Man/Men
+The New Scooby-Doo Mysteries,TV Series,Ghost of Christmas Never,Ghost,Phantom,Human,False,1,5,Treasure,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Bogle,Weerd,Ghoulio,Werewolfs,Werewolf Daphnie","Ghost,Ghost,Undead,Animal,Animal","Phantom,Phantom,Vampire,Werewolf,Werewolf","Cartoon,Cartoon,Human,Human,Human",True,5,2,Assistance,Both
+The 13 Ghosts of Scooby-Doo,TV Series,"Maldore the Malevolent,Evil Tree,Evil Tree,Dragon,Rat Gaurds,Rat Gaurds","Mythical,Plant,Plant,Mythical,Animal,Animal","Demon,Evil,Evil,Dragon,Giant,Giant","Demon,Tree,Tree,Dragon,Rat,Rat",True,6,2,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Shadow Demon,Griswald,Queen Morbidia","Mythical,Animal,Magician","Shadow,Giant,Vampire","Demon,Spider,Human",True,2,2,Conquer,Both
+The 13 Ghosts of Scooby-Doo,TV Series,"Bogle,Weerd,Reflector Specter","Ghost,Ghost,Mythical","Phantom,Phantom,Mirror","Cartoon,Cartoon,Demon",True,3,4,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Zomba,Dr. Frankscoob's Monster","Mythical,Undead","Demon,Frankenstein's Monster","Demon,Human",True,2,2,Conquer,Both
+The 13 Ghosts of Scooby-Doo,TV Series,"Bogel,Weerd,Captain Ghost,Ghosts on the Ship,Tornado,Demon","Ghost,Ghost,Ghost,Ghost,Mythical","Phantom,Phantom,Phantom,Phantom,Tornado","Cartoon,Cartoon,Human,Human,Demon",True,4,2,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Bogel,Weerd,Nekara,Nekara's Minions","Ghost,Ghost,Magician,Ghost","Phantom,Phantom,Witch,Phantom","Cartoon,Cartoon,Human,Human",True,3,1,Conquer,Both
+The 13 Ghosts of Scooby-Doo,TV Series,"Marcella,Helda Brewski,Ernestine Brewski,Wanda Brewski","Magician,Magician,Magician,Magician","Witch,Witch,Witch,Witch","Human,Human,Human,Human",True,4,1,Conquer,Woman/Women
+The 13 Ghosts of Scooby-Doo,TV Series,"Time Slime,Bogel,Weerd","Magician,Ghost,Ghost","Wizard,Phantom,Phantom","Human,Human,Human",True,3,1,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Demondo,Bogel,Weerd","Mythical,Ghost,Ghost","Demon,Phantom,Phantom","Demon,Cartoon,Cartoon",True,3,3,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Rankor,Bogel,Weerd,Head of S.A.P.S.,Living Plants","Undead,Ghost,Ghost,Ghost,Plant","Vampire,Phantom,Phantom,Demon,Flower","Goblin,Cartoon,Cartoon,Demon,Flower",True,5,2,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Porff. Phantazmo,Bogel,Weerd","Magician,Ghost,Ghost","Warlock,Phantom,Phantom","Human,Cartoon,Cartoon",True,3,1,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,"Zimbulu,Bogel,Weerd,Boris Kreepoff,Zombies,Zombies,Zombies","Mythical,Ghost,Ghost,Undead,Undead,Undead,Undead","Demon,Phantom,Phantom,Zombie,Zombie,Zombie,Zombie","Demon,Cartoon,Cartoon,Human,Human,Human,Human",True,7,1,Conquer,Man/Men
+Hanna-Barbera Superstars 10,Movie,"Headless Horseman,Beauregard's Ghost,Skull Ghost,Floating Skeleton","Undead,Ghost,Undead,Undead","Undead,Soldier,Skeleton,Skeleton","Human,Human,Human,Human",False,4,4,Treasure,Man/Men
+A Pup Named Scooby-Doo,TV Series,Ghost,Ghost,Phantom,Human,False,1,2,Counterfeit,Man/Men
+A Pup Named Scooby-Doo,TV Series,Sludge Monster from the Earth's Croe,Possessed Object,Sludge,Sludge-Monster,False,1,2,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Dr. Croaker,Animal,Humanoid,Frog,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Cheese Monster,Possessed Object,Humanoid,Cheese,False,1,3,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,Ghost of Al Cabone,Ghost,Phantom,Human,False,1,4,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,Boogedy Bones,Undead,Zombie,Human,False,1,2,Theft,Man/Men
+Hanna-Barbera Superstars 10,Movie,"Revolta,Grim Creeper,Mirror Monster,Well-Dweller","Magician,Plant,Magician,Animal","Witch,Humanoid,Mirror Monster,Humanoid","Human,Potato,Human,Sea-Monster",True,4,17,Abduction,Both
+A Pup Named Scooby-Doo,TV Series,Ice Demon,Possessed Object,Humanoid,Ice,False,1,3,Natural Resource,Man/Men
+A Pup Named Scooby-Doo,TV Series,Samurai Ghost,Ghost,Samurai,Human,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Headless Skateboarder,Undead,Headless,Human,False,1,3,Smuggling,Man/Men
+A Pup Named Scooby-Doo,TV Series,Boobeard,Ghost,Pirate,Human,False,1,5,Competition,Man/Men
+Hanna-Barbera Superstars 10,Movie,"Count Dracula,Wolfgong,Frankenstein,Repulsa,Witch Sisters,Witch Sisters,Mummy,Bonejangles,Swamp Thing,Vanna Pira,Werewolf Shaggy,Dr. Jackyll,Dragonfly,Webman,Schlockness Monster,Genghis Kong,Man-Eating Plant","Undead,Animal,Undead,Undead,Magician,Magician,Undead,Undead,Possessed Object,Undead,Disfigured,Disfigured,Animal,Disguised,Insect,Insect,Possessed Object,Animal,Plant","Vampire,Humanoid,Frankenstein's Monster,Frankenstein's Monster,Witch,Witch,Mummy,Skeleton,Humanoid,Vampire,Thrall,Thrall,Werewolf,Split-Personality,Bug,Humanoid,Tar,Humanoid,Venus Flytrap","Human,Wolf,Human,Human,Human,Human,Human,Human,Swamp Monster,Human,Human,Human,Human,Human,Dragonfly,Spider,Creature,Ape,Venus Flytrap",True,19,0,Competition,Both
+A Pup Named Scooby-Doo,TV Series,Totem Spirit,Possessed Object,Statue,Totem,False,1,3,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,Ghost of Chef Pierre Goulash,Ghost,Chef,Human,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Stinkweed,Plant,Humanoid,Plant-Monster,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Ghost of Buster McMutt Mauler,Ghost,Phantom,Human,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Alien,Extraterrestrial,Alien,Alien,False,1,4,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Ghost of Purvis Parker,Undead,Skeleton,Human,False,1,4,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,Chickenstein,Undead,Frankenstein's Monster,Chicken,False,1,4,Smuggling,Man/Men
+A Pup Named Scooby-Doo,TV Series,Burger Monster,Possessed Object,Burger,Burger,False,1,4,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,Dinkley 2000,Mechanical,Humanoid,Computer,False,1,5,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,,,,,,0,2,Assistance,
+A Pup Named Scooby-Doo,TV Series,Ghost of Zombo,Ghost,Clown,Human,False,1,5,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series (segmented),Boogey Biker,Undead,Skeleton,Human,False,1,2,Assistance,Man/Men
+A Pup Named Scooby-Doo,TV Series (segmented),Astronaut Ghost,Ghost,Astronaut,Human,False,1,3,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,Bigwig,Possessed Object,Humanoid,Hair,False,1,4,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,Ghost of the Hooded Heifer,Ghost,Wrestler,Human,False,1,8,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,Nasty-Doo,Animal,Hound,Hound,False,1,2,Treasure,Man/Men
+A Pup Named Scooby-Doo,TV Series (segmented),,,,,,0,1,Abduction,
+A Pup Named Scooby-Doo,TV Series (segmented),Ghost of Mrs. Shusham,Ghost,Librarian,Human,False,1,3,Theft,Woman/Women
+A Pup Named Scooby-Doo,TV Series (segmented),,,,,,0,1,,
+A Pup Named Scooby-Doo,TV Series,Moving Mollusk,Animal,Giant,Snail,False,1,4,Competition,Man/Men
+TV Special,Movie,,,,,,0,5,,
+Johnny Bravo,Crossover,Ghostly Gardener,Undead,Ghost,Human,False,1,1,Trespassing,Man/Men
+Warner Home Video,Movie,"Ghost of Morgan Moonscar,Pirate Zombies,Confederate Zombies,Tourist Zombies,Simone Lenoir,Lena Dupree,Jacques","Ghost,Undead,Undead,Undead,Animal,Animal,Animal","Pirate,Zombie,Zombie,Zombie,Werecat,Werecat,Werecat","Human,Human,Human,Human,Human,Human,Human",True,7,6,Food,Both
+Warner Home Video,Movie,"Ben Ravencroft,Sarah Ravencroft,Evil Trees,Pumpkin Monsters,Enormous Turkey","Magician,Ghost,Plant,Plant,Animal","Warlock,Witch,Evil,Humanoid,Giant","Human,Human,Tree,Pumpkin,Turkey",True,5,4,Conquer,Both
+The Scooby-Doo Project,TV Series,"Casper County Monster,Casper County Monster","Animal,Animal","Humanoid,Humanoid","Forest-Monster,Forest-Monster",False,2,7,Entertainment,Man/Men
+Warner Home Video,Movie,"Aliens,Aliens,Aliens","Extraterrestrial,Extraterrestrial,Extraterrestrial","Alien,Alien,Alien","Alien,Alien,Alien",False,3,10,Natural Resource,Man/Men
+Warner Home Video,Movie,Phantom Virus,Possessed Object,Humanoid,Electric,True,1,4,Competition,Man/Men
+Night of the Living Doo,TV Series,"Zombie,Mummy,Zombie Gary Coleman","Undead,Undead,Undead","Zombie,Mummy,Zombie","Human,Human,Human",False,3,2,Competition,Man/Men
+Warner Bros. Picture,Movie (Theatrical),"Demons,Demons,Demons,Demons,Possessed College Kids,Possessed Fred,Possessed Marry Jane,Possessed Daphine,Possessed Velma,Scrappy-Rex","Mythical,Mythical,Mythical,Mythical,Possessed Object,Possessed Object,Possessed Object,Possessed Object,Possessed Object,Animal","Demon,Demon,Demon,Demon,Possessed,Possessed,Possessed,Possessed,Possessed,Giant","Demon,Demon,Demon,Demon,Human,Human,Human,Human,Human,Hound",True,10,11,Conquer,Both
+"Harvey Birdman, Attorney at Law",Crossover,Green Monster,Plant,Humanoid,Weed,False,1,2,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Snow Creature,Animal,Humanoid,Ice-Monster,False,1,6,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Dinosaur Spirit,Animal,Spirit,Dinosaur,False,1,3,Natural Resource,Man/Men
+What's New Scooby-Doo?,TV Series,The Alien,Extraterrestrial,Alien,Alien,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Ghost of the Leland Brothers,Ghost of the Leland Brothers","Ghost,Ghost","Soldier,Soldier","Human,Human",False,2,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,The Mystery Machine,Possessed Object,Car,Vehicle,False,1,5,Competition,Woman/Women
+What's New Scooby-Doo?,TV Series,Ghost of Rufus Raucaus,Ghost,Phantom,Human,False,1,6,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Roller Ghoster,Animal,Humanoid,Beast,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Jungle Demons,Animal,Demon,Animal,False,1,5,Smuggling,Man/Men
+What's New Scooby-Doo?,TV Series,Motoshondu,Animal,Serpent,Sea-Monster,False,1,4,Preservation,Woman/Women
+What's New Scooby-Doo?,TV Series,Headless Snowman,Possessed Object,Headless,Snow-Man,False,1,4,Treasure,Man/Men
+What's New Scooby-Doo?,TV Series,"Spaceman Swintons,Annabel Action Figure,Other Toys","Mechanical,Mechanical,Mechanical","Humanoid,Humanoid,Toy","Toy,Toy,Toy",False,3,4,Treasure,Both
+What's New Scooby-Doo?,TV Series,Faceless Phantom,Ghost,Phantom,Human,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Undead,Ancient,Gladiator,Human,False,1,4,Competition,Man/Men
+Warner Home Video,Movie,"Yowie Yahoo,Dark Skull,Stormy Weathers,Lightning Strikes","Undead,Undead,Undead,Undead","Vampire,Vampire,Vampire,Vampire","Human,Human,Human,Human",False,4,10,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Baseball Specter,Ghost,Specter,Human,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Ancient One,30 Foot Shaggy","Magician,Animal","Mystic,Giant","Human,Human",False,2,3,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Mummy of Pharaoh Scamses,Zombies,Zombies,Zombies,Zombies,Zombie Fred,Zombie Daphnie,Zombie Velma","Undead,Undead,Undead,Undead,Undead,Undead,Undead,Undead","Mummy,Zombie,Zombie,Zombie,Zombie,Zombie,Zombie,Zombie","Human,Human,Human,Human,Human,Human,Human,Human",False,8,3,Competition,Both
+What's New Scooby-Doo?,TV Series,Gusano Grande,Animal,Giant,Worm,False,1,5,Competition,Man/Men
+Warner Home Video,Movie,"Chupacabra,Paco,Quetzalcoatl,Jaguar Statues,Aztec Giant Statue,Ghost of Señor Otero,Skeleton Man","Animal,Animal,Mythical,Possessed Object,Possessed Object,Ghost,Undead","Humanoid,Bird,Dragon,Statue,Statue,Phantom,Skeleton","Chupacabra,Parrot,Dragon,Jaguar,Human,Human,Human",False,7,9,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Jeevens,Shari","Mechanical,Mechanical","Robot,Computer","Robot,Computer",True,2,6,Competition,Both
+What's New Scooby-Doo?,TV Series,Baron Fortescu,Undead,Vampire,Human,False,1,3,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Scarecrows,Ghost of Hank Banning","Possessed Object,Ghost","Scarecrow,Phantom","Human,Human",False,2,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Cat Creature,Animal,Humanoid,Cat,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,San Franpsycho,Ancient,Convict,Human,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Invisible Man,Disguised,Invisible,Human,False,1,9,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Scooby Snack Monster,Scooby Snack Monster","Possessed Object,Possessed Object","Humanoid,Humanoid","Scooby Snack,Scooby Snack",False,2,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Glasburgh Dragon,Mythical,Dragon,Dragon,False,1,5,Treasure,Man/Men
+What's New Scooby-Doo?,TV Series,Fish Creature,Animal,Humanoid,Fish,False,1,5,Preservation,Man/Men
+What's New Scooby-Doo?,TV Series,"Wakumi,Shaman","Animal,Ancient","Giant,Shaman","Bird,Human",False,2,5,Preservation,Man/Men
+Warner Bros. Picture,Movie (Theatrical),"Masked Figure,Pterodactyl Ghost,Black Knight Ghost,Cotton Candy Glob,Tar Monster,Minder 49er,Captain Cutler's Ghost,Zombie,10000 Volt Ghost,Skeleton Men,Skeleton Men","Disguised,Animal,Possessed Object,Possessed Object,Possessed Object,Ancient,Possessed Object,Undead,Ghost,Undead,Undead","Scientist,Dinosaur,Suit,Candy,Tar,Miner,Suit,Zombie,Electric,Skeleton,Skeleton","Human,Pterodactyl,Human,Cotton Candy,Tar,Human,Human,Human,Human,Human,Human",True,11,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Centaur,Mythical,Beast,Centaur,False,1,4,Treasure,Man/Men
+Warner Home Video,Movie,"Loch Ness Monster,Loch Ness Monster","Mythical,Mythical","Loch Ness Monster,Loch Ness Monster","Dinosaur,Dinosaur",False,2,8,Competition,Woman/Women
+What's New Scooby-Doo?,TV Series,"Creepy Keeper,Skeleton Crew","Undead,Undead","Lighthouse Keeper,Skeleton","Human,Human",False,2,3,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Sheriff,Cold Steel,Other Robot Cowboys","Mechanical,Mechanical,Mechanical","Cowboy,Cowboy,Cowboy","Human,Human,Human",False,3,3,Competition,Man/Men
+Warner Home Video,Movie,"Wiki-Tiki,Tiny Tikis","Ancient,Ancient","Hawaiian,Hawaiian","Human,Human",False,2,7,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Clone Fred,Clone Daphnie,Clone Velma,Clone Shaggy,Clone Scooby","Mechanical,Mechanical,Mechanical,Mechanical,Mechanical","Clone,Clone,Clone,Clone,Clone","Human,Human,Human,Human,Human",False,5,5,Competition,Both
+What's New Scooby-Doo?,TV Series,Titanic Twist,Undead,Deformed,Human,False,1,9,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Gargoyle,Possessed Object,Statue,Gargoyle,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Demon Farmer,Undead,Farmer,Human,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Frozen Fiend,Undead,Ice,Human,False,1,6,Theft,Man/Men
+What's New Scooby-Doo?,TV Series,Menacing Metallic Clown,Mechanical,Clown,Human,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Toxic Terror,Possessed Object,Humanoid,Toxic,False,1,6,Preservation,Man/Men
+What's New Scooby-Doo?,TV Series,Dragon,Mythical,Dragon,Dragon,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Skeleton Driver,Undead,Skeleton,Human,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,Gold Monster,Possessed Object,Humanoid,Gold,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,"Coral Creature,Sand Monsters","Plant,Possessed Object","Humanoid,Sand","Coral,Human",True,2,5,Competition,Man/Men
+Warner Home Video,Movie,"Ghost of Cleopatra,Army of the Undead,Spirit of the Sand","Undead,Undead,Animal","Mummy,Mummy,Giant","Human,Human,Scorpion",False,3,7,Preservation,Both
+What's New Scooby-Doo?,TV Series,Osomons,Animal,Little,Osomons,False,1,5,Simulation,Man/Men
+Warner Home Video,Movie,"Cptn. Skunk Beard,Wooden Wally,Sea Salt Sally,Cptn. Skunk Beard's Crew","Undead,Undead,Undead,Undead","Pirate,Pirate,Pirate,Pirate","Human,Human,Human,Human",False,4,5,Natural Resource,Both
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 6,Agent 7,Agent,8,Agent,9,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebal","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Dr. Trebal","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Doctor","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human",True,15,0,Theft,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 3,Agent 4,Agent 5,Agent 6,Agent 7,Agent,9,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebal,Misty Swiss","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Dr. Trebal,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Doctor,Agent","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,",True,13,1,Conquer,Both
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 8,Agent 11,Dr. Trebla","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Doctor","Human,Human,Human,Human,Human,Human,Human",True,7,4,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,A.R.T.,Agent 2,Dr. Trebla","Super-Villain,Mechanical,Disguised,Super-Villain","Doctor,Robot,Agent,Doctor","Human,Object,Human,Human",True,4,1,Abduction,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Dr. Trebla,Kevin,Mark,Ricky,Agent 1,Agent 2","Super-Villain,Super-Villain,Mechanical,Super-Villain,Super-Villain,Disguised,Disguised","Doctor,Doctor,Computer,Nerd,Nerd,Agent,Agent","Human,Human,Object,Human,Human,Human,Human",True,7,1,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 7,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebla","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Doctor","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human",True,11,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Bruce,Brucey,Agent 13,Mark,Ricky,Dr. Trebla","Super-Villain,Super-Villain,Super-Villain,Disguised,Super-Villain,Super-Villain,Super-Villain","Doctor,Poacher,Poacher,Agent,Nerd,Nerd,Doctor","Human,Human,Human,Human,Human,Human,Human",True,7,1,Treasure,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 4,Agent 13","Super-Villain,Disguised,Disguised","Doctor,Agent,Agent","Human,Human,Human",True,3,9,Abduction,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Dr. Trebla,Chef Suki Sukihari,Agent 2,Agent 5,Agent 8","Super-Villain,Super-Villain,Super-Villain,Disguised,Disguised,Disguised","Doctor,Doctor,Chef,Agent,Agent,Agent","Human,Human,Human,Human,Human,Human",True,6,1,Competition,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Mark,Ricky","Super-Villain,Super-Villain,Disguised,Disguised,Super-Villain,Super-Villain","Doctor,Doctor,Agent,Agent,Nerd,Nerd","Human,Human,Human,Human,Human,Human",True,6,1,Theft,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Dr. Trebla,Dr. Speed,Agent 1,Agent 2,Agent 5,Agent 6,Agent 8,Agent 11,Agent 12,Agent 13","Super-Villain,Super-Villain,Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised","Doctor,Doctor,Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human",True,11,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Mark,Ricky,Agent,4,Agent 7,Agent 11","Super-Villain,Super-Villain,Disguised,Disguised,Super-Villain,Super-Villain,Disguised,Disguised,Disguised","Doctor,Doctor,Agent,Agent,Nerd,Nerd,Agent,Agent,Agent","Human,Human,Human,Human,Human,Human,Human,Human,Human",True,9,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Menace,Mr. Invisible,Cat Lady,Agent 2","Super-Villain,Super-Villain,Super-Villain,Super-Villain,Disguised","Doctor,Wrestler,Invisible,Super-Villain,Agent","Human,Human,Human,Human,Human",True,5,0,Conquer,Both
+Warner Home Video,Movie,Abominable Snowman,Animal,Yeti,Ice-Monster,False,1,6,Competition,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Agent 5,Agent 6,Agent 7,Agent 9,Mark,Ricky","Super-Villain,Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain,Super-Villain","Doctor,Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Nerd,Nerd","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human",True,10,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Mark,Ricky,Dr. Trebla,Menace","Super-Villain,Disguised,Disguised,Disguised,Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain","Doctor,Agent,Agent,Agent,Nerd,Nerd,Doctor,Wrestler","Human,Human,Human,Human,Human,Human,Human,Human",True,8,0,Theft,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 6,Agent 8,Agent 9,Dr Trebla","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Doctor","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human",True,10,8,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 7,Agent 8,Agent 9,Agent 11,Agent 12,Agent 13,Dr Trebla","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised, Disguised, Disguised,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Doctor","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,",True,13,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Clown Phibes,Evil Phibes,Peekaboo Phibes,Klepto Phibes,Kung Fu Phibes,Pirate Phibes,Pantsing Phibes,Mark,Ricky,Dr. Trebla","Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain,Super-Villain","Doctor,Clown,Doctor,Playful,Burglar,Kung Fu,Pirate,Doctor,Nerd,Nerd,Doctor","Human,Human,Human,Human",True,11,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Dr. Trebla","Super-Villain,Disguised,Disguised,Super-Villain","Doctor,Agent,Agent,Doctor","Human,Human,Human,Human",True,4,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Evil Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 13,Dr. Trebla","Super-Villain,Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain","Doctor,Doctor,Agent,Agent,Agent,Agent,Agent,Doctor","Human,Human,Human,Human,Human,Human,Human,Human",True,8,1,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Mark,Ricky,Dr. Trebla,Rusty,Bacon,Mummy,Frankenstein,Dracula,Swamp Monster","Super-Villain,Disguised,Disguised,Super-Villain,Super-Villain,Super-Villain,Animal,Animal,Undead,Undead,Undead,Animal","Doctor,Agent,Agent,Nerd,Nerd,Doctor,Werewolf,Pig,Mummy,Frankenstin's Monster,Vampire,Swamp Monster","Human,Human,Human,Human,Human,Human,Human,Pig,Human,Human,Human,Swamp-Monster",True,12,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 7,Agent 8,Agent 9,Agent 11,Agent 13,Mark,Ricky,Dr. Trebla","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain,Super-Villain,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Nerd,Nerd,Doctor","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human",True,13,1,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 8,Agent 9,Agent 11,Dr. Trebla","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Doctor","Human,Human,Human,Human,Human,Human,Human,Human,Human",True,9,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Mark,Ricky,Dr. Trebla,Menace,Super Bulls,Cocky","Super-Villain,Disguised,Disugised,Disguised,Super-Villain,Super-Villain,Super-Villain,Animal,Animal","Doctor,Agent,Agent,Agent,Nerd,Nerd,Doctor,Bull,Giant","Human,Human,Human,Human,Human,Human,Human,Bull,Rooster",True,9,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Zoinks,Dr. Phineus Phibes,Agent 1,Agent 2,Mark,Ricky,Dr. Trebla,Groovy Don","Mechanical,Super-Villain,Disguised,Disguised,Super-Villain,Super-Villain,Super-Villain,Mechanical","Dog,Doctor,Agent,Agent,Nerd,Nerd,Doctor,Hippy","Robot,Human,Human,Human,Human,Human,Human,Robot",True,8,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Agent 5,Agent 13,Agent 21,Agent 44,Agent 89,Mark,Ricky,Dr. Trebla","Super-Villain,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Disguised,Super-Villain,Super-Villain,Super-Villain","Doctor,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Agent,Nerd,Nerd,Doctor","Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human,Human",True,12,0,Conquer,Man/Men
+Warner Home Video,Movie,"Amazing Krudsky,Glob,Glum,Headless Horseman,Goblin King,Goblins","Mythical,Mythical,Mythical,Undead,Mythical,Mythical","Wizard,Goblin,Goblin,Headless,Goblin,Goblin","Human,Goblin,Goblin,Human,Goblin,Goblin",True,6,11,Conquer,Man/Men
+Warner Home Video,Movie,"Black Samurai,Ninjas","Ghost,Disguised","Samurai,Ninja","Human,Human",False,2,10,Conquer,Man/Men
+Warner Home Video,Movie,"Specter,Ezekial Gallows,Prudence Prufrock","Disguised,Undead,Undead","Specter,Ghost,Ghost","Human,Human,Human",True,3,6,Treasure,Both
+Warner Home Video,Movie,"Gryphon,Banshee","Mythical,Mythical","Griffin,Banshee","Griffin,Banshee",False,2,6,Competition,Both
+Scooby-Doo Mystery Incorporated,TV Series,Slime Mutant,Possessed Object,Slime,Slime-Monster,False,1,2,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Creeping Creatures,Creeping Creatures,Creeping Creatures","Animal,Animal,Animal","Humanoid,Humanoid,Humanoid","Alligator,Alligator,Alligator",False,3,3,Counterfeit,Both
+Scooby-Doo Mystery Incorporated,TV Series,Ghost Truck,Possessed Object,Truck,Truck,False,1,2,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Man-Crab,Animal,Humanoid,Crab,False,1,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Que Horrifico,Spookified Kids","Ancient,Possessed","Pupeteer,Kid","Human,Human",False,2,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Ghost Girl,Ghost,Ghost,Human,False,1,1,Competition,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,Phantom,Ghost,Phantom,Human,False,1,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Gnome,Mythical,Gnome,Human,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Green Humungonaut,Red Humungonaut","Animal,Animal","Humanoid,Humanoid","Ape,Ape",False,2,3,Competition,Man/Men
+Warner Home Video,Movie,"Woodsman,Fishman,Specter of Shadow Canyon","Undead,Animal,Undead","Zombie,Humanoid,Specter","Human,Fish,Human",False,3,8,Treasure,Both
+Scooby-Doo Mystery Incorporated,TV Series,Fright Hound,Mechanical,Robot,Hound,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Vampire,Undead,Vampire,Human,False,1,3,Theft,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,Char Gar Gothakon,Extraterrestrial,Humanoid,Squid,False,1,5,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Cicada Creature,Animal,Insect,Cicada,False,1,5,Preservation,Man/Men
+Warner Home Video,Movie,"Wanda Grubwort,Lake Monsters","Magician,Animal","Witch,Humanoid","Human,Frog",True,2,4,Conquer,Both
+Scooby-Doo Mystery Incorporated,TV Series,Lord Infernicus,Undead,Skeleton,Human,False,1,6,Imagination,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Shadowy Orc,Mythical,Orc,Orc,False,1,6,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Aphrodite,Mythical,Pupeteer,Human,False,1,1,Competition,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,Danny Darrow,Ancient,Hermit,Human,True,1,0,Preservation,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,White Wizard,Magician,Wizard,Human,False,1,3,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Nightfright,Mythical,Demon,Demon,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Fish Freaks,Fish Freaks,Fish Freaks,Fish Freaks","Animal,Animal,Animal,Animal","Humanoid,Humanoid,Humanoid,Humanoid","Fish,Fish,Fish,Fish",False,4,5,Natural Resource,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Manticore,Mythical,Manticore,Manticore,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Headless Horror,Ancient,Humanoid,Jungle-Monster,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Shadowy Figure,Ghost,Shadow,Human,False,1,2,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Ghost of Dead Justice,Ghost,Sheriff,Human,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Obliteratrix,Undead,Assassin,Human,False,1,3,Theft,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,Freak of Crystal Cove,Ancient,Humanoid,Beast,False,1,3,Theft,Man/Men
+Warner Home Video,Movie,"Phantosaurs,Velociraptor","Ghost,Ancient","Dinosaur,Dinosaur","Appalachiosaurus,Velociraptor",False,2,7,Natural Resource,Man/Men
+Warner Home Video,Movie,Lord Valdronya,Undead,Vampire,Human,False,1,7,Competition,Man/Men
+Warner Home Video,TV Series,Fortius,Possessed Object,Statue,Human,False,1,4,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Crybaby Clown,Disguised,Clown,Human,False,1,1,,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Baba Yaga House,Baba Yaga","Possessed Object,Magician","House,Witch","House,Human",False,2,2,Smuggling,Both
+Scooby-Doo Mystery Incorporated,TV Series,Crybaby Clown,Disguised,Clown,Human,False,1,2,Abduction,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Dreamweaver,Magician,Wizard,Human,False,1,4,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Hodag of Horror,Animal,Beast,Beast,False,1,3,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Junk,Mechanical,Trash,Trash,False,1,6,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Graveyard Ghoul,Undead,Ghoul,Human,False,1,5,Natural Resource,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Dark Lilith,Mythical,Demon,Demon,False,1,3,Treasure,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,Hebediah Grim,Undead,Zombie,Human,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Fiend,Mythical,Anubis,Human,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Kriegstaffebot,Ghost of Abigail Gluck","Mechanical,Ghost","Soldier,Ghost","Robot,Human",True,2,2,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,Scarebear,Animal,Mutant,Bear,False,1,2,Preservation,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Krampus,Mythical,Beast,Krampus,False,1,1,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Dragon,Mechanical,Dragon,Dragon,False,1,0,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Mummy of Friar Serra,Undead,Mummy,Human,False,1,3,Theft,Man/Men
+Warner Home Video,Movie,"Werewolf,Werewolf,Werewolf,Werewolf","Animal,Animal,Animal,Animal","Werewolf,Werewolf,Werewolf,Werewolf","Human,Human,Human,Human",False,4,9,Theft,Man/Men
+Warner Home Video,TV Series,Sinister Snowman,Possessed Object,Snow-Man,Snow-Man,False,1,5,Competition,Man/Men
+Warner Home Video,Movie,Mr. Hyde,Super-Villain,Split-Personality,Human,False,1,8,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Grey Alien,Reptiod,Nordic Alien","Extraterrestrial,Animal,Extraterrestrial","Alien,Humanoid,Alien","Alien,Reptile,Alien",False,3,0,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,"Skull Cattles,Skull Cattle Queen","Undead,Undead","Skeleton,Skeleton","Bull,Bull",False,2,4,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,"Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics","Undead,Undead,Undead,Undead","Zombie,Zombie,Zombie,Zombie","Human,Human,Human,Human",False,4,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Gluton Demon,Mythical,Demon,Demon,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Dandy Highwayman,Disguised,Highwayman,Human,False,1,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Evil Fred,Evil Daphnie","Disguised,Disguised","Clone,Clone","Human,Human",False,2,0,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,Monstrous Freak,Animal,Humanoid,Beast,False,1,2,Preservation,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Priestess,Magician,Shaman,Human,False,1,2,Competition,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,Kriegstaffebot,Mechanical,Soldier,Robot,False,1,1,Treasure,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,Evil Entity,Mythical,Evil,Element,True,1,0,Conquer,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,"Evil Entity,Minions","Mythical,Ancient","Evil,Humanoid","Element,Human",True,2,0,Conquer,Man/Men
+Warner Home Video,Movie,"Ye Phantom Parrot,Ghost of Gnarlybeard","Animal,Undead","Parrot,Pirate","Bird,Human",False,2,5,Treasure,Man/Men
+Warner Home Video,Movie,Phantom,Ghost,Phantom,Human,False,1,19,Theft,Man/Men
+Warner Home Video,TV Series,Cornfield Clem,Possessed Object,Scarecrow,Scarecrow,False,1,9,Theft,Man/Men
+Warner Home Video,TV Series,Mecha Mutt,Mechanical,Robot,Hound,False,1,4,Competition,Man/Men
+Warner Home Video,Movie,Ghost Bear,Ghost,Bear,Bear,False,1,9,Competition,Man/Men
+Warner Home Video,TV Series,Eshu,Animal,Humanoid,Beast,False,1,5,Theft,Man/Men
+Warner Home Video,Movie,"Ghost of the Baron,Frankencreep","Ghost,Undead","Baron,Frankenstein's Monster","Human,Chimera",False,2,6,Competition,Man/Men
+Warner Home Video,Movie,Alien,Extraterrestrial,Extraterrestrial,Alien,False,1,8,Competition,Man/Men
+Warner Home Video,TV Series,Sea Monster,Possessed Object,Elemental,Water,False,1,4,Theft,Man/Men
+Warner Home Video,Movie,"Witch,KISS Monsters,Harpies,The Destroyer","Magician,Possessed Object,Mythical,Demon","Witch,Statue,Harpy,Demon","Human,Human,Harpy,Demon",True,4,6,Theft,Both
+"Be Cool, Scooby-Doo!",TV Series,Ghost of Elias Kingston,Ghost,Ghost,Human,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Spirit of the Zatari Warrior,Ancient,Spirit,Human,False,1,3,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,"Sea Creature,Sea Creature","Animal,Animal","Humanoid,Humanoid","Sea-Monster,Sea-Monster",False,2,4,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Gargoyle,Possessed Object,Statue,Gargoyle,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ghost of Chip Braverton,Ghost,Ghost,Human,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Sobek,Mythical,Humanoid,Crocodile,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Crystal Crawler,Animal,Humanoid,Cave-Monster,False,1,2,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Headless Count,Undead,Headless,Human,False,1,5,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ghost of the Prima Donna,Ghost,Ghost,Human,False,1,4,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,Yeti,Animal,Yeti,Yeti,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Butler 3000,Mechanical,Robot,Robot,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Alien,Extraterrestrial,Alien,Alien,False,1,2,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Phantom,Ghost,Phantom,Human,False,1,4,Inheritance,Man/Men
+Lego,TV Series,Black Knight,Possessed Object,Suit,Object,False,1,6,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Pterodactyl,Ancient,Dinosaur,Pterodactyl,False,1,4,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ghost of Stealin' Stan,Ghost,Prisoner,Human,False,1,2,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Gremlin,Mythical,Gremlin,Gremlin,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Sorcerer,Magician,Sorcerer,Human,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Swamp Monster,Plant,Humanoid,Swamp-Monster,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Snow Monster,Possessed Object,Snow-Man,Snow-Man,False,1,3,Preservation,Man/Men
+Lego,Movie,"Headless Horseman,Mummy,Zombie","Undead,Undead,Undead","Headless,Mummy,Zombie","Human,Human,Human",False,3,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Giant,Mythical,Giant,Cyclops,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,"Scarecrow,Scarecrow","Possessed Object,Possessed Object","Humanoid,Humanoid","Scarecrow,Scarecrow",False,2,4,Natural Resource,Man/Men
+Warner Home Video,Movie,Inferno,Undead,Skeleton,Demon,False,1,20,Competition,Man/Men
+Warner Home Video,Movie,Ghost of Dapper Jack Rogers,Ghost,Cowboy,Human,False,1,15,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ghost of the Cliff Bride,Undead,Zombie,Human,False,1,4,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,Spirit of El Bandito,Undead,Skeleton,Human,False,1,3,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Madcap the Killer Clown,Disguised,Clown,Human,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,"Viking Ghosts,Viking Ghosts,Viking Ghosts","Ghost,Ghost,Ghost","Viking,Viking,Viking","Human,Human,Human",False,3,6,Natural Resource,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Toxic Mutant,Undead,Mutant,Human,False,1,3,Theft,Man/Men
+Lego,Movie,"Ghost Pirate,Ghost Pirate","Ghost,Ghost","Pirate,Pirate","Human,Human",False,2,9,Treasure,Both
+"Be Cool, Scooby-Doo!",TV Series,Dorsal Foot,Animal,Humanoid,Shark,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Werewolf,Animal,Werewolf,Human,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Jester Monster,Disguised,Jester,Human,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Vampire,Undead,Vampire,Human,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Houndbeast,Animal,Beast,Hound,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,"Grim Reaper,Mummy,Tengu,Tarasque,Tzitzimitl,Manticore,Haniver,Hemogoblin","Undead,Undead,Mythical,Mythical,Magician,Mythical,Mythical,Mythical","Skeleton,Mummy,Humanoid,Humanoid,Shaman,Beast,Beast,Goblin","Human,Human,Chicken,Turtle,Human,Manticore,Beast,Goblin",False,8,4,Theft,Both
+"Be Cool, Scooby-Doo!",TV Series,"Baba Yaga,Baba Yaga House","Magician,Possessed Object","Witch,House","Human,House",False,2,3,Competition,Both
+"Be Cool, Scooby-Doo!",TV Series,Kaniaku,Animal,Demon,Crab,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ghost of Amos Littlefield,Ghost,Ghost,Human,False,1,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,"Ghost of Jacob Marley,Ghost of Christmas Past,Ghost of Christmas Present,Ghost of Christmas Future","Ghost,Ghost,Ghost,Ghost","Ghost,Ghost,Ghost,Ghost","Human,Human,Human,Human",False,4,4,Theft,Both
+"Be Cool, Scooby-Doo!",TV Series,Space Kook,Extraterrestrial,Humanoid,Alien,False,1,3,Natural Resource,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ghost of Mother,Undead,Zombie,Human,False,1,2,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,Ghost of Archie Barnes,Ghost,Ghost,Human,False,1,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Mutant Rabbit,Animal,Giant,Rabbit,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Arachne,Mythical,Humanoid,Spider,False,1,4,Competition,Woman/Women
+Warner Home Video,Movie,Crimson Cloak,Ghost,Phantom,Human,False,1,15,Conquer,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Plant Monster,Plant,Humanoid,Bush,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Minus,Disguised,Mutant,Human,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,The Mystery Machine,Possessed Object,Car,Vehicle,False,1,4,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,Ice Man,Ancient,Caveman,Human,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ape Man,Animal,Half-Human,Ape,False,1,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Trash Monster,Mechanical,Robot,Robot,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Ghost Chef,Ghost,Chef,Human,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Demon of Salem,Mythical,Demon,Demon,False,1,4,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Professor Huh?,Disguised,Random,Human,False,1,5,,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Professor Huh?,Disguised,Random,Human,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Pizza O'Possum,Mechanical,Robot,Rat,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,Half-Beard's Ghost,Ghost,Pirate,Human,False,1,3,Treasure,Man/Men
+Supernatural,Crossover,"Phantasm,Ghost Kid","Undead,Undead","Phantasm,Ghost","Human,Human",True,2,6,Competition,Man/Men
+Warner Home Video,Movie,,,,,,0,11,Theft,
+Warner Home Video,Movie,Red Ghost,Ghost,Phantom,Human,False,1,11,Competition,Man/Men
+OK K.O.!,Crossover,Living Tree,Plant,Tree,Tree,True,1,0,,Man/Men
+Warner Home Video,Movie,Asmodeus,Mythical,Demon,Demon,False,1,4,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Swamp Monster,Animal,Humanoid,Swamp-Monster,False,1,5,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Civil War Zombie Ghosts,Ghost,Soldier,Human,False,1,2,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Fish Monster,Animal,Humanoid,Fish,False,1,1,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Screaming Skulls of London,Ghost,Skulls,Skull,False,1,3,Theft,Man/Men
+Warner Home Video,Movie,"Zombies,Werecat Simone Lenoir,Werecat Lena Dupree,Werecat Jacques,Werecat","Undead,Animal,Animal,Animal,Animal","Zombie,Werecat,Werecat,Werecat,Werecat","Human,Werecat,Werecat,Werecat,Werecat",False,5,12,Treasure,Both
+Scooby-Doo and Guess Who?,TV Series,Cat Mummy,Undead,Mummy,Cat,False,1,3,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Minotaur,Mythical,Minotaur,Minotaur,False,1,2,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,"Ghost of Madds Markson,Madds Markson Monster","Undead,Animal","Ghost,Mutant","Human,Bunny",False,2,3,Entertainment,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Technomancer,Magician,Technomancer,Human,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Spectral Speedster,Ghost,Humanoid,Monster,False,1,3,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,"Dinosaur,Dinosaur","Animal,Animal","Allosaurus,Ceratosarus","Dinosaur,Dinosaur",False,2,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Sia Doppelganger,Disguised,Sia,Human,False,1,5,Theft,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,Pazzo the Ghost Clown,Ghost,Clown,Human,False,1,4,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Man-Bat,Animal,Humanoid,Bat,False,1,3,Theft,Man/Men
+Teen Titans,Crossover,Control Freak,Super-Villain,Obese,Human,False,1,0,Competition,Man/Men
+Warner Bros. Picture,Movie (Theatrical),"Rotten Robots,Dick Dastardly,Muttley,Cerberus","Mechanical,Super-Villain,Animal,Mythical","Robot,Cartoon Villain,Cartoon Villain,Cerberus","Robot,Human,Hound,Hound",False,4,5,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Nightmare Ghost,Ghost,Nightmare,Human,False,1,2,Inheritance,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Fox Monster,Animal,Giant,Fox,False,1,3,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,"Miner Forty-Niner,Ghost of Captain Cutler,Spooky Space Kook,Snow Ghost,Clown,Ghost of Redbeard,Back Knight,Witch,Witch Doctor,Phantom,Creeper,Giant Teddy Bear","Ancient,Ghost,Extraterrestrial,Animal,Disguised,Ghost,Possessed Object,Magician,Magician,Ghost,Undead,Possessed Object,","Miner,Suit,Phantom,Ghost,Clown,Pirate,Suit,Witch,Shaman,Phantom,Zombie,Giant","Human,Human,Alien,Snow-Monster,Human,Human,Object,Human,Human,Human,Human,Teddy Bear",False,12,1,Competition,Both
+Scooby-Doo and Guess Who?,TV Series,Ghost of the Doom Bringer,Possessed Object,Suit,Suit,False,1,4,Inheritance,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Gator Man Monster,Animal,Humanoid,Alligator,False,1,4,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Fire Monster of Mount Etna,Animal,Humanoid,Fire-Monster,False,1,3,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Crazy Carl,Possessed Object,Humanoid,Puppet,False,1,6,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Ghost of Madame Zobrinsky,Ghost,Ghost,Human,False,1,2,Competition,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,Wedding Witch of Wainsly Hall,Magician,Witch,Human,False,1,3,Theft,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,"Chronobeast,Robo Dooby Doo","Animal,Mechanical","Humanoid,Robot","Chronobeast,Hound",False,2,0,Simulation,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Ghost of Ester Moonkiller,Ghost,Ghost,Human,False,1,3,Competition,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,Werewolf,Animal,Werewolf,Human,False,1,4,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Tardigrade Monster,Animal,Giant,Tardigrade,False,1,4,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Ghost of Tallis Taggert,Ghost,Captain,Human,False,1,3,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Ghost of Jean Lebeau,Ghost,Prisoner,Human,False,1,3,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Phineas Phrag Monster,Animal,Humanoid,Beast,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Gnarled One,Plant,Living,Tree,False,1,4,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Gargoyle,Possessed Object,Statue,Gargoyle,False,1,5,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Frankenfooder Monster,Possessed Object,Humanoid,Fruit,False,1,3,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Elevator Operator Ghost,Ghost,Ghost,Human,False,1,5,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Snow Devil,Animal,Yeti,Yeti,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Caveman,Ancient,Caveman,Human,False,1,4,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Robot,Mechanical,Robot,Robot,False,1,2,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Ghost of Charles M. Thraber,Ghost,Ghost,Human,False,1,3,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Zombie Mascot,Undead,Zombie,Yak,False,1,3,Entertainment,Man/Men
+Scooby-Doo and Guess Who?,TV Series,"Hyde Monster,Mummy,Dinosaur,Giant Manta Ray","Disguised,Undead,Animal,Animal","Split-Personality,Mummy,Dinosaur,Giant","Human,Human,Dinosaur,Manta Ray",False,4,6,Theft,Man/Men
+Warner Home Video,Movie,"Alpha Jackal-Lantern,Jackal-Lanterns","Plant,Plant","Giant,Mutant","Pumpkin,Pumpkin",False,2,5,Natural Resource,Man/Men
+Warner Home Video,Movie,"Morgan le Fay,Black Knight","Magician,Possessed Object","Sorceress,Suit","Human,Object",False,2,8,Competition,Both
+Scooby-Doo and Guess Who?,TV Series,"Mud Men,Mud Men,Mud Men","Possessed Object,Possessed Object,Possessed Object","Humanoid,Humanoid,Humanoid","Mud,Mud,Mud",False,1,9,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,Max Kilobyte,Mechanical,Genius,Robot,False,1,2,Competition,Man/Men
