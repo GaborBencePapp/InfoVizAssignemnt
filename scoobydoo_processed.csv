@@ -1,0 +1,506 @@
+series_name,format,monster_real,monster_amount,suspects_amount,motive,monster_gender_group
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,0,Treasure,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Natural Resource,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,1,Competition,Woman/Women
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Extortion,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,1,Competition,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Safety,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,1,Counterfeit,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,1,Competition,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,3,1,Treasure,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,1,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,2,2,Theft,Both
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,1,Competition,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,2,3,Inheritance,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,3,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,3,1,Smuggling,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,2,Theft,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,1,Treasure,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,2,1,Theft,Both
+"Scooby Doo, Where Are You!",TV Series,False,1,0,Smuggling,Man/Men
+"Scooby Doo, Where Are You!",TV Series,False,1,3,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,2,Natural Resource,Ambiguous
+The New Scooby-Doo Movies,TV Series,False,2,1,Counterfeit,Man/Men
+The New Scooby-Doo Movies,TV Series,False,1,2,Safety,Woman/Women
+The New Scooby-Doo Movies,TV Series,False,1,4,Treasure,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,1,Inheritance,Man/Men
+The New Scooby-Doo Movies,TV Series,False,3,4,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,False,9,4,Preservation,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,2,Treasure,Man/Men
+The New Scooby-Doo Movies,TV Series,False,7,2,Theft,Both
+The New Scooby-Doo Movies,TV Series,False,1,4,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,False,1,3,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,False,4,1,Natural Resource,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,4,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,2,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,2,Theft,Man/Men
+The New Scooby-Doo Movies,TV Series,False,4,4,Treasure,Man/Men
+The New Scooby-Doo Movies,TV Series,False,3,2,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,3,Counterfeit,Man/Men
+The New Scooby-Doo Movies,TV Series,True,1,3,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,False,1,3,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,False,8,1,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,False,4,2,Competition,Man/Men
+The New Scooby-Doo Movies,TV Series,False,2,2,Smuggling,Man/Men
+The New Scooby-Doo Movies,TV Series,False,1,0,Competition,Man/Men
+The Scooby-Doo Show,TV Series,False,2,4,Theft,Both
+"Dynomutt, Dogwonder",Crossover,True,1,2,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,2,4,Treasure,Man/Men
+"Dynomutt, Dogwonder",Crossover,True,3,1,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Competition,Man/Men
+The Scooby-Doo Show,TV Series,False,1,3,Competition,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,2,3,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,1,2,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,False,2,5,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,3,5,Extortion,Both
+The Scooby-Doo Show,TV Series,False,3,4,Theft,Man/Men
+"Dynomutt, Dogwonder",Crossover,False,1,0,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,3,5,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,False,3,2,Treasure,Man/Men
+The Scooby-Doo Show,TV Series,False,1,6,Competition,Man/Men
+The Scooby-Doo Show,TV Series,False,3,2,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,3,3,Counterfeit,Man/Men
+The Scooby-Doo Show,TV Series,False,3,3,Natural Resource,Man/Men
+The Scooby-Doo Show,TV Series,False,1,5,Competition,Man/Men
+The Scooby-Doo Show,TV Series,False,1,2,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,1,6,Competition,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,2,3,Smuggling,Both
+The Scooby-Doo Show,TV Series,False,1,2,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,2,2,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,False,3,1,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,False,3,2,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,1,3,Natural Resource,Man/Men
+The Scooby-Doo Show,TV Series,False,1,3,Inheritance,Woman/Women
+The Scooby-Doo Show,TV Series,False,1,3,Treasure,Man/Men
+The Scooby-Doo Show,TV Series,False,2,3,Smuggling,Both
+The Scooby-Doo Show,TV Series,False,1,3,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Natural Resource,Man/Men
+The Scooby-Doo Show,TV Series,False,1,3,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Natural Resource,Man/Men
+The Scooby-Doo Show,TV Series,False,1,6,Smuggling,Man/Men
+The Scooby-Doo Show,TV Series,False,1,3,Theft,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Treasure,Man/Men
+The Scooby-Doo Show,TV Series,False,1,5,Treasure,Man/Men
+The Scooby-Doo Show,TV Series,False,2,4,Competition,Man/Men
+The Scooby-Doo Show,TV Series,False,1,4,Smuggling,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,4,Competition,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,4,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,3,Smuggling,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,2,4,Smuggling,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,3,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,4,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,2,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,3,Theft,Woman/Women
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,4,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,4,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,3,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,4,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (first series),TV Series,False,1,3,Treasure,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,2,0,Experimentation,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,0,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Experimentation,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Assistance,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,4,0,Imagination,Both
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,1,Competition,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,1,Loneliness,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,2,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,0,Imagination,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Conquer,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,0,Imagination,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,1,Mistake,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,2,0,Assistance,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Conquer,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Trespassing,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Experimentation,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,2,0,Imagination,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Automated,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,1,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,1,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,1,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,5,2,Production,Both
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,2,Theft,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Abduction,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,3,0,Abduction,Both
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,1,Extortion,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,0,Theft,Woman/Women
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Abduction,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),True,1,0,Food,Man/Men
+Scooby-Doo and Scrappy-Doo (second series),TV Series (segmented),False,1,1,Inheritance,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,2,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,2,2,Treasure,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),True,6,0,Trespassing,Both
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,4,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,2,Inheritance,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,1,Treasure,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,3,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,3,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,2,2,Smuggling,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,4,3,Natural Resource,Both
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,3,Natural Resource,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),True,2,1,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,3,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,3,Theft,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,2,Treasure,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,4,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,5,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,3,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series (segmented),True,4,1,Experimentation,Both
+The New Scooby and Scrappy Doo Show,TV Series (segmented),False,1,3,Competition,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series,False,1,4,Smuggling,Man/Men
+The New Scooby and Scrappy Doo Show,TV Series,False,1,7,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series,False,1,4,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,3,Theft,Woman/Women
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,5,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,2,3,Natural Resource,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,4,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,3,Conquer,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,3,Competition,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,3,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series,False,4,4,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,3,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,4,Competition,Man/Men
+The New Scooby-Doo Mysteries,TV Series,False,1,4,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series,False,4,6,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,3,Treasure,Man/Men
+The New Scooby-Doo Mysteries,TV Series,False,1,6,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,4,Theft,Man/Men
+The New Scooby-Doo Mysteries,TV Series (segmented),False,1,4,Competition,Man/Men
+The New Scooby-Doo Mysteries,TV Series,False,1,5,Treasure,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,5,2,Assistance,Both
+The 13 Ghosts of Scooby-Doo,TV Series,True,6,2,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,2,2,Conquer,Both
+The 13 Ghosts of Scooby-Doo,TV Series,True,3,4,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,2,2,Conquer,Both
+The 13 Ghosts of Scooby-Doo,TV Series,True,4,2,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,3,1,Conquer,Both
+The 13 Ghosts of Scooby-Doo,TV Series,True,4,1,Conquer,Woman/Women
+The 13 Ghosts of Scooby-Doo,TV Series,True,3,1,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,3,3,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,5,2,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,3,1,Conquer,Man/Men
+The 13 Ghosts of Scooby-Doo,TV Series,True,7,1,Conquer,Man/Men
+Hanna-Barbera Superstars 10,Movie,False,4,4,Treasure,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,2,Counterfeit,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,2,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,3,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,4,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,2,Theft,Man/Men
+Hanna-Barbera Superstars 10,Movie,True,4,17,Abduction,Both
+A Pup Named Scooby-Doo,TV Series,False,1,3,Natural Resource,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,3,Smuggling,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,5,Competition,Man/Men
+Hanna-Barbera Superstars 10,Movie,True,19,0,Competition,Both
+A Pup Named Scooby-Doo,TV Series,False,1,3,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,3,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,4,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,4,Theft,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,4,Smuggling,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,4,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,5,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,5,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series (segmented),False,1,2,Assistance,Man/Men
+A Pup Named Scooby-Doo,TV Series (segmented),False,1,3,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,4,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,8,Competition,Man/Men
+A Pup Named Scooby-Doo,TV Series,False,1,2,Treasure,Man/Men
+A Pup Named Scooby-Doo,TV Series (segmented),False,1,3,Theft,Woman/Women
+A Pup Named Scooby-Doo,TV Series,False,1,4,Competition,Man/Men
+Johnny Bravo,Crossover,False,1,1,Trespassing,Man/Men
+Warner Home Video,Movie,True,7,6,Food,Both
+Warner Home Video,Movie,True,5,4,Conquer,Both
+The Scooby-Doo Project,TV Series,False,2,7,Entertainment,Man/Men
+Warner Home Video,Movie,False,3,10,Natural Resource,Man/Men
+Warner Home Video,Movie,True,1,4,Competition,Man/Men
+Night of the Living Doo,TV Series,False,3,2,Competition,Man/Men
+Warner Bros. Picture,Movie (Theatrical),True,10,11,Conquer,Both
+"Harvey Birdman, Attorney at Law",Crossover,False,1,2,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,6,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,3,Natural Resource,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,2,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Woman/Women
+What's New Scooby-Doo?,TV Series,False,1,6,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Smuggling,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,4,Preservation,Woman/Women
+What's New Scooby-Doo?,TV Series,False,1,4,Treasure,Man/Men
+What's New Scooby-Doo?,TV Series,False,3,4,Treasure,Both
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,4,Competition,Man/Men
+Warner Home Video,Movie,False,4,10,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,2,3,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,8,3,Competition,Both
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+Warner Home Video,Movie,False,7,9,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,True,2,6,Competition,Both
+What's New Scooby-Doo?,TV Series,False,1,3,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,2,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,9,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,2,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Treasure,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Preservation,Man/Men
+What's New Scooby-Doo?,TV Series,False,2,5,Preservation,Man/Men
+Warner Bros. Picture,Movie (Theatrical),True,11,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,4,Treasure,Man/Men
+Warner Home Video,Movie,False,2,8,Competition,Woman/Women
+What's New Scooby-Doo?,TV Series,False,2,3,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,3,3,Competition,Man/Men
+Warner Home Video,Movie,False,2,7,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,5,5,Competition,Both
+What's New Scooby-Doo?,TV Series,False,1,9,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,6,Theft,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,4,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,6,Preservation,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,False,1,5,Competition,Man/Men
+What's New Scooby-Doo?,TV Series,True,2,5,Competition,Man/Men
+Warner Home Video,Movie,False,3,7,Preservation,Both
+What's New Scooby-Doo?,TV Series,False,1,5,Simulation,Man/Men
+Warner Home Video,Movie,False,4,5,Natural Resource,Both
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,15,0,Theft,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,13,1,Conquer,Both
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,7,4,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,4,1,Abduction,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,7,1,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,11,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,7,1,Treasure,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,3,9,Abduction,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,6,1,Competition,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,6,1,Theft,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,11,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,9,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,5,0,Conquer,Both
+Warner Home Video,Movie,False,1,6,Competition,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,10,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,8,0,Theft,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,10,8,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,13,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,11,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,4,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,8,1,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,12,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,13,1,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,9,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,9,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,8,0,Conquer,Man/Men
+Shaggy & Scooby-Doo Get a Clue!,TV Series,True,12,0,Conquer,Man/Men
+Warner Home Video,Movie,True,6,11,Conquer,Man/Men
+Warner Home Video,Movie,False,2,10,Conquer,Man/Men
+Warner Home Video,Movie,True,3,6,Treasure,Both
+Warner Home Video,Movie,False,2,6,Competition,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,3,3,Counterfeit,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,2,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,1,Competition,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,2,3,Competition,Man/Men
+Warner Home Video,Movie,False,3,8,Treasure,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Theft,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,False,1,5,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,5,Preservation,Man/Men
+Warner Home Video,Movie,True,2,4,Conquer,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,1,6,Imagination,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,6,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,1,Competition,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,True,1,0,Preservation,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,4,5,Natural Resource,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Theft,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Theft,Man/Men
+Warner Home Video,Movie,False,2,7,Natural Resource,Man/Men
+Warner Home Video,Movie,False,1,7,Competition,Man/Men
+Warner Home Video,TV Series,False,1,4,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,2,2,Smuggling,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Abduction,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,4,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,6,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,5,Natural Resource,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Treasure,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,True,2,2,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Preservation,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,1,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,0,Theft,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Theft,Man/Men
+Warner Home Video,Movie,False,4,9,Theft,Man/Men
+Warner Home Video,TV Series,False,1,5,Competition,Man/Men
+Warner Home Video,Movie,False,1,8,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,3,0,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,2,4,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,4,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Competition,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,2,0,Theft,Both
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Preservation,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,False,1,2,Competition,Woman/Women
+Scooby-Doo Mystery Incorporated,TV Series,False,1,1,Treasure,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,True,1,0,Conquer,Man/Men
+Scooby-Doo Mystery Incorporated,TV Series,True,2,0,Conquer,Man/Men
+Warner Home Video,Movie,False,2,5,Treasure,Man/Men
+Warner Home Video,Movie,False,1,19,Theft,Man/Men
+Warner Home Video,TV Series,False,1,9,Theft,Man/Men
+Warner Home Video,TV Series,False,1,4,Competition,Man/Men
+Warner Home Video,Movie,False,1,9,Competition,Man/Men
+Warner Home Video,TV Series,False,1,5,Theft,Man/Men
+Warner Home Video,Movie,False,2,6,Competition,Man/Men
+Warner Home Video,Movie,False,1,8,Competition,Man/Men
+Warner Home Video,TV Series,False,1,4,Theft,Man/Men
+Warner Home Video,Movie,True,4,6,Theft,Both
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,2,4,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,2,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,5,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,2,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Inheritance,Man/Men
+Lego,TV Series,False,1,6,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,2,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Preservation,Man/Men
+Lego,Movie,False,3,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,2,4,Natural Resource,Man/Men
+Warner Home Video,Movie,False,1,20,Competition,Man/Men
+Warner Home Video,Movie,False,1,15,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Treasure,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,3,6,Natural Resource,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Theft,Man/Men
+Lego,Movie,False,2,9,Treasure,Both
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,8,4,Theft,Both
+"Be Cool, Scooby-Doo!",TV Series,False,2,3,Competition,Both
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,4,4,Theft,Both
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Natural Resource,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,2,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,False,1,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Woman/Women
+Warner Home Video,Movie,False,1,15,Conquer,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Woman/Women
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,5,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,4,Theft,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Competition,Man/Men
+"Be Cool, Scooby-Doo!",TV Series,False,1,3,Treasure,Man/Men
+Supernatural,Crossover,True,2,6,Competition,Man/Men
+Warner Home Video,Movie,False,1,11,Competition,Man/Men
+Warner Home Video,Movie,False,1,4,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,5,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,2,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,1,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Theft,Man/Men
+Warner Home Video,Movie,False,5,12,Treasure,Both
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,2,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,2,3,Entertainment,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,2,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,5,Theft,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Theft,Man/Men
+Teen Titans,Crossover,False,1,0,Competition,Man/Men
+Warner Bros. Picture,Movie (Theatrical),False,4,5,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,2,Inheritance,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,12,1,Competition,Both
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Inheritance,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,6,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,2,Competition,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Theft,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,False,2,0,Simulation,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Competition,Woman/Women
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,5,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Competition,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,5,Theft,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Natural Resource,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,4,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,2,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,3,Entertainment,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,4,6,Theft,Man/Men
+Warner Home Video,Movie,False,2,5,Natural Resource,Man/Men
+Warner Home Video,Movie,False,2,8,Competition,Both
+Scooby-Doo and Guess Who?,TV Series,False,1,9,Treasure,Man/Men
+Scooby-Doo and Guess Who?,TV Series,False,1,2,Competition,Man/Men
